@@ -1,0 +1,18 @@
+{
+  "name": "mmm-taskwarrior",
+  "version": "1.0.0",
+  "description": "MagicMirror² module that displays Taskwarrior tasks synced from a TaskChampion server.",
+  "main": "MMM-taskwarrior.js",
+  "keywords": [
+    "magicmirror",
+    "magicmirror2",
+    "taskwarrior",
+    "taskchampion",
+    "tasks"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "test": "node test/harness.js"
+  },
+  "dependencies": {}
+}
